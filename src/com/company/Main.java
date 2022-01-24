@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hola mon");
         String commit = "Ara";
         int madidr = 1;
+        int barecelona = 1;
     }
 }
