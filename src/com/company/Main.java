@@ -7,5 +7,6 @@ public class Main {
         String commit = "Ara";
         int madidr = 1;
         int barecelona = 1;
+        float madridbranca2 = 0f;
     }
 }
