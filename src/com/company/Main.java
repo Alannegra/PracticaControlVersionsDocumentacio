@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hola mon");
         String commit = "Ara";
         int barecelona = 1;
+        float bracna = 0f;
     }
 }
